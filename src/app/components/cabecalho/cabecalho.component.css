@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Adamina&display=swap');
+
+.navbar {
+    display: flex;
+    padding: 1.5rem;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #0C1821;
+}
+
+.logo {
+    font-family: 'Adamina', serif;
+    font-size: 2rem;
+    color: white;
+}
+
+.links {
+    display: flex;
+}
+
+.links li {
+    color: white;
+    text-decoration: none;
+    list-style: none;
+    margin-left: 1rem;
+}
+
+.links li>a:hover{
+    text-decoration: underline white;
+}
