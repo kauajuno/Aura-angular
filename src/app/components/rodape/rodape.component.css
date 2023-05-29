@@ -1,0 +1,16 @@
+.rodape{
+    text-align: center;
+    box-sizing: border-box;
+    padding: 2rem;
+    background-color: #0C1821;
+}
+
+.rodape .logo {
+    font-family: 'Adamina', serif;
+    font-size: 2rem;
+    color: white;
+}
+
+.rodape .slogan{
+    color: white;
+}

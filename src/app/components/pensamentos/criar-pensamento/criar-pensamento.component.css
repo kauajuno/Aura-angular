@@ -1,0 +1,38 @@
+.form-section{
+    margin: 2rem 0 3rem;
+}
+
+.form-section form {
+    box-sizing: border-box;
+    background: #C4EDFF;
+
+    border: none;
+    border-radius: 20px;
+
+    display: flex;
+    flex-direction: column;
+
+    padding: 2rem;
+    margin: 0 2rem;
+}
+
+
+.form-section .header h2 {
+    font-size: 2rem;
+    color: #0C1821;
+}
+
+.form-section form label{
+    font-size: 1.5rem;
+    color: #0C1821;
+    padding: 0.5rem;
+}
+
+.form-section form input{
+    border: none;
+    height: 2rem;
+    padding: 1rem 2rem;
+    border-radius: 20px;
+    margin: 0.5rem 0 2rem;
+    font-size: 1.2rem;
+}
